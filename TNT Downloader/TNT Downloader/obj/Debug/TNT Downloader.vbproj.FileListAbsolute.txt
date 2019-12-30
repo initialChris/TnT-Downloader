@@ -1,0 +1,12 @@
+E:\Chris\Documenti\23) Programmi\Programmi Visual Basic\TNT Downloader\TNT Downloader\TNT Downloader\bin\Debug\TNT Downloader.exe.config
+E:\Chris\Documenti\23) Programmi\Programmi Visual Basic\TNT Downloader\TNT Downloader\TNT Downloader\bin\Debug\TNT Downloader.exe
+E:\Chris\Documenti\23) Programmi\Programmi Visual Basic\TNT Downloader\TNT Downloader\TNT Downloader\bin\Debug\TNT Downloader.pdb
+E:\Chris\Documenti\23) Programmi\Programmi Visual Basic\TNT Downloader\TNT Downloader\TNT Downloader\bin\Debug\TNT Downloader.xml
+E:\Chris\Documenti\23) Programmi\Programmi Visual Basic\TNT Downloader\TNT Downloader\TNT Downloader\obj\Debug\TNT_Downloader.Form1.resources
+E:\Chris\Documenti\23) Programmi\Programmi Visual Basic\TNT Downloader\TNT Downloader\TNT Downloader\obj\Debug\TNT_Downloader.Resources.resources
+E:\Chris\Documenti\23) Programmi\Programmi Visual Basic\TNT Downloader\TNT Downloader\TNT Downloader\obj\Debug\TNT Downloader.vbproj.GenerateResource.cache
+E:\Chris\Documenti\23) Programmi\Programmi Visual Basic\TNT Downloader\TNT Downloader\TNT Downloader\obj\Debug\TNT Downloader.vbproj.CoreCompileInputs.cache
+E:\Chris\Documenti\23) Programmi\Programmi Visual Basic\TNT Downloader\TNT Downloader\TNT Downloader\obj\Debug\TNT Downloader.exe
+E:\Chris\Documenti\23) Programmi\Programmi Visual Basic\TNT Downloader\TNT Downloader\TNT Downloader\obj\Debug\TNT Downloader.xml
+E:\Chris\Documenti\23) Programmi\Programmi Visual Basic\TNT Downloader\TNT Downloader\TNT Downloader\obj\Debug\TNT Downloader.pdb
+E:\Chris\Documenti\23) Programmi\Programmi Visual Basic\TNT Downloader\TNT Downloader\TNT Downloader\obj\Debug\TNT Downloader.vbprojAssemblyReference.cache
